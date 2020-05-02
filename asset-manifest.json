@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Notes-app/static/css/main.531b3985.chunk.css",
-    "main.js": "/Notes-app/static/js/main.c6381b8c.chunk.js",
-    "main.js.map": "/Notes-app/static/js/main.c6381b8c.chunk.js.map",
+    "main.js": "/Notes-app/static/js/main.ed96d1a4.chunk.js",
+    "main.js.map": "/Notes-app/static/js/main.ed96d1a4.chunk.js.map",
     "runtime-main.js": "/Notes-app/static/js/runtime-main.90df7969.js",
     "runtime-main.js.map": "/Notes-app/static/js/runtime-main.90df7969.js.map",
     "static/js/2.49cb7bc9.chunk.js": "/Notes-app/static/js/2.49cb7bc9.chunk.js",
     "static/js/2.49cb7bc9.chunk.js.map": "/Notes-app/static/js/2.49cb7bc9.chunk.js.map",
     "index.html": "/Notes-app/index.html",
-    "precache-manifest.7f0b2af4f395681833abf1db994f58f8.js": "/Notes-app/precache-manifest.7f0b2af4f395681833abf1db994f58f8.js",
+    "precache-manifest.e3bb11e89ae65c75a905f988ba0e0c8b.js": "/Notes-app/precache-manifest.e3bb11e89ae65c75a905f988ba0e0c8b.js",
     "service-worker.js": "/Notes-app/service-worker.js",
     "static/css/main.531b3985.chunk.css.map": "/Notes-app/static/css/main.531b3985.chunk.css.map",
     "static/js/2.49cb7bc9.chunk.js.LICENSE.txt": "/Notes-app/static/js/2.49cb7bc9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.90df7969.js",
     "static/js/2.49cb7bc9.chunk.js",
     "static/css/main.531b3985.chunk.css",
-    "static/js/main.c6381b8c.chunk.js"
+    "static/js/main.ed96d1a4.chunk.js"
   ]
 }
